@@ -9,18 +9,18 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://lanyon.getpoole.com
+title:               Stanley Shyiko
+tagline:             ''
+description:         'A software engineer, geek and open source enthusiast. You can reach me on <a href="https://twitter.com/shyiko">twitter</a>, <a href="https://github.com/shyiko">github</a>, <a href="https://bitbucket.org/shyiko">bitbucket</a>, <a href="http://instagram.com/shyiko">instagram</a>, <a href="https://linkedin.com/in/shyiko">linkedin</a> or by <a href="mailto:stanley.shyiko@gmail.com">email</a>.'
+url:                 http://shyiko.com
 baseurl:             /
-paginate:            5
+paginate:            3
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Stanley Shyiko
+  url:               http://shyiko.com
+  email:             stanley.shyiko@gmail.com
 
 # Custom vars
 version:             1.0.0
