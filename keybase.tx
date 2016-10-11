@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/shyiko
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://shyiko.com
+  * I am shyiko (https://keybase.io/shyiko) on keybase.
+  * I have a public key with fingerprint 0E9D 330A 7704 EFB3 4BB3  6842 E6A6 4EED 7505 2A29
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101acc7a273e6eac8a3564833f6862890728c2d4df2597af8e446aac8f565b6fdac0a",
+            "fingerprint": "0e9d330a7704efb34bb36842e6a64eed75052a29",
+            "host": "keybase.io",
+            "key_id": "e6a64eed75052a29",
+            "kid": "0101acc7a273e6eac8a3564833f6862890728c2d4df2597af8e446aac8f565b6fdac0a",
+            "uid": "4c3a3e069ec986c972d8f09fb160ef19",
+            "username": "shyiko"
+        },
+        "service": {
+            "hostname": "shyiko.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1476145428,
+    "expire_in": 157680000,
+    "prev": "490001f7cb0033e1443df37c322dc969e49e8045087e7dfbd469bed01792725f",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.58
+Comment: https://keybase.io/crypto
+
+yMIlAnicrVJbSBRRGF7zki5Zkhqo5MMgdEFl5syZK5GRZqkkFIoo1jqXM+6wOrPu
+zq6KFwx1e6h8CDOWyIRIgiQLSagoNIyMrI2QHoKiEgsNI5UsvG0zUg9Bj52Xw/+f
+7/v+7zv8Y/GRNnvEp/7iOV/03j0Rz0bP+2xlq0RSEybqciPGN2EutHGhGhl5DYdL
+lTEewwmcECSJEQBDIhoJEiuQFA1ZklRolgYshzOAlYAMZQVQHCMoLIKQFkycQtGU
+SCuyIOEClokpqlaNPG6PqhmWLOJkksQFhsEhUkQSiiJJsxAgWqAhQjJD4RQQAGcS
+nbrXYpjmRMGLslXd7JmFY8PeP/D/2bdvQw5KpEAinOaQxLG0xDFAZhWcU0SCxpFC
+WHN9XuTRhFpkor3ORtWlYy2ZmNnzqxKyvtXK8dd7tqTXmjy3Rzd0Sa8x+07DcPMW
+zWh0W7h6JDp+KzhEVZPNLzQJfuTxqrqG8YSJlAzVkiQgQxOQgoDNxFCDW/Ugh2oh
+KIZmcfNYY5DfCsKZFaEwkojjJIkICElZIRmJBECWODMf5BCLQwpnGcTIiihDmhOR
+jBMMBxhAKZiVqU7TMZ4ybQrVVhq1WhMMnwdhLY9GKqNsEXZbTPQma7Vs9riEPwt3
+MTnWNnY6FEppJtJ7GhbtgfC2nLa+gU1jX4Jx7rPxp9q7d0SCoQedroyts0Pzay8G
+Wq92/uwY5Bu236tJz2/PfcylhfYplSs/pqeJ41Ff2wJ9vW+Ca6n9E0sdzxOnsozS
+uwd234qcRUfh98JQ4ehCwZ3ExYWuwW83Rlxd5QH9bcW1oBtcHyhN68qbjFseX2+Z
++Nz8smLu8FD2ZSx2Z6ffOVmwf8t4SUpx/3ArKJkLv14t53tO1B17WFZVdHM49WPJ
+rnCWr/3puUMdM+9yEoIrS8l9TqL+yfuqvvuBmYnbdVcgf+TD/JnwyrxWlPjKWI5J
+upAbPjl9sPtSftp671Te5oxwzC8ow0RV
+=e3AC
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/shyiko
+
+==================================================================
