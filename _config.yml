@@ -1,16 +1,12 @@
-# Dependencies
-markdown:            redcarpet
-highlighter:         pygments
+markdown: kramdown
+highlighter: rouge
 
-# Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
+permalink: pretty
 # relative_permalinks: true
 gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 paginate_path: "page:num"
 
-# Setup
 title:               Stanley Shyiko
 tagline:             ''
 description:         'A software engineer, geek and open source enthusiast. You can reach me on <a href="https://twitter.com/shyiko">twitter</a>, <a href="https://github.com/shyiko">github</a>, <a href="https://bitbucket.org/shyiko">bitbucket</a>, <a href="http://instagram.com/shyiko">instagram</a>, <a href="https://linkedin.com/in/shyiko">linkedin</a> or by <a href="mailto:stanley.shyiko@gmail.com">email</a>.'
@@ -18,11 +14,9 @@ url:                 http://shyiko.com
 baseurl:             /
 paginate:            3
 
-# About/contact
 author:
   name:              Stanley Shyiko
   url:               http://shyiko.com
   email:             stanley.shyiko@gmail.com
 
-# Custom vars
 version:             1.0.0
